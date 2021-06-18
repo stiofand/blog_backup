@@ -1,6 +1,6 @@
 ## Foundational functional programming, part II
 
-In part [1](https://thebarefoot.dev/foundational-functional-programming-part-i) of this overview, we looked briefly at the character of the functional programming paradigm, what it is, and what it isn't. We saw its complexity has often been misconstrued and confused with somewhat heavier implementations, usually within more scientific domains. We outlined some basic symptoms that provide a functional perspective, and it is these that we will investigate in this section in more detail.
+In part [1](https://thebarefootdev.com/foundational-functional-programming-part-i) of this overview, we looked briefly at the character of the functional programming paradigm, what it is, and what it isn't. We saw its complexity has often been misconstrued and confused with somewhat heavier implementations, usually within more scientific domains. We outlined some basic symptoms that provide a functional perspective, and it is these that we will investigate in this section in more detail.
 
 
 ### JavaScript ###
